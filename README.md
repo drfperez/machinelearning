@@ -1,2 +1,2 @@
 # machinelearning
-Exemples bàsics en Python per aprendre machine learning
+Exemples bàsics de l'equip d'AI d'IBM en Python per aprendre machine learning
