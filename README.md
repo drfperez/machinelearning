@@ -1,2 +1,2 @@
 # machinelearning
-Basic examples in python of machine learning
+Exemples bàsics en Python per aprendre machine learning
